@@ -5,7 +5,7 @@ This project analyzes global cancer mortality data for the year 2021, breaking d
 
 ### Dataset
 - **Source**: Global Cancer Mortality Statistics (2021)
-- **Size**: 10,000+ records, covering 195 countries and 20+ cancer types.
+- **Size**: 2,000+ records, covering 195 countries and 20+ cancer types.
 - **Preprocessing**: Handled 5% missing values, corrected mislabeled columns.
 
 ### Analysis & Tools

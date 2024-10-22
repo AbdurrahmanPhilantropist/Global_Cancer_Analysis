@@ -7,7 +7,7 @@ This project analyzes cancer death data across 195 countries and over 20 differe
 - **Number of records**: 10,000+
 - **Features**:
   - `Country`: The name of the country.
-  - `Cancer_Type`: Type of cancer (e.g., lung cancer, breast cancer, etc.).
+  - `Cancer_Type`: Type of cancer (e.g., lung cancer, Pancreatic cancer, etc.).
   - `Total_Deaths`: Total number of deaths caused by cancer in the country.
   - `Population_Size`: Population of the country.
   - `Year`: The year the data was collected (2021).
@@ -22,7 +22,7 @@ This project analyzes cancer death data across 195 countries and over 20 differe
 The analysis identifies the top 10 countries with the highest cancer deaths, showing that Spain, the USA, and Vietnam account for 40% of total global cancer deaths.
 
 ### 2. Distribution of Cancer Deaths by Type
-We explored which cancer types contributed the most to total deaths globally. We found out that Lung, Pancreatic and Cervical Cancer leads the global death by type.
+We explored which cancer types contributed the most to total deaths globally. We found out that Lung, Pancreatic and Cervical Cancer leads the Cancer death by type.
 
 
 ## Results

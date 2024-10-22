@@ -19,18 +19,16 @@ This project analyzes cancer death data across 195 countries and over 20 differe
 
 ## Key Analyses
 ### 1. Top 10 Countries by Cancer Deaths
-The analysis identifies the top 10 countries with the highest cancer deaths, showing that India, China, and the USA account for 40% of total global cancer deaths.
+The analysis identifies the top 10 countries with the highest cancer deaths, showing that Spain, the USA, and Vietnam account for 40% of total global cancer deaths.
 
 ### 2. Distribution of Cancer Deaths by Type
-We explored which cancer types contributed the most to total deaths globally. This insight can help prioritize research and healthcare funding toward high-impact cancer types.
+We explored which cancer types contributed the most to total deaths globally. We found out that Lung, Pancreatic and Cervical Cancer leads the global death by type.
 
-### 3. Correlation between Cancer Deaths and Population Size
-We calculated the correlation between `Total_Deaths` and `Population_Size`. The correlation coefficient was found to be **0.85**, indicating a strong positive relationship between population size and cancer mortality rates. Larger populations generally experience more cancer deaths, though other factors (like healthcare quality and cancer prevention programs) likely play a role.
 
 ## Results
-1. **Top Countries**: India, China, and the USA were the countries with the highest cancer mortality rates.
-2. **Top Cancer Types**: The most common cancer types were lung, breast, and liver cancer.
-3. **Correlation**: A high positive correlation between population size and cancer deaths was identified.
+1. **Top Countries**: Spain, the USA and Vietnam were the countries with the highest cancer mortality rates.
+2. **Top Cancer Types**: The most common cancer types were lung, Pancreatic, and Cervical cancer.
+
 
 ## Files Included
 - `cancer_deaths_dataset.csv`: The dataset used for analysis.

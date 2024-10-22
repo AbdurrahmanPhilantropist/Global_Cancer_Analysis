@@ -50,9 +50,6 @@ We calculated the correlation between `Total_Deaths` and `Population_Size`. The 
 - Predictive modeling to forecast cancer deaths in coming years using machine learning techniques.
 - Regional focus analysis (e.g., Sub-Saharan Africa and South Asia) for targeted healthcare interventions.
 
-## License
-This project is licensed under the MIT License.
-
 ---
 
 This README provides a clear and concise description of the project, including its objectives, key analyses, and instructions for running the code.
